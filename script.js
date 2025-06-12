@@ -34,15 +34,6 @@ const projects = [
         issues: 0,
         url: "https://github.com/cool-element-com/better",
         icon: "tools"
-    },
-    {
-        name: "Cool Element GitHub Pages",
-        description: "Organization website and documentation hosted on GitHub Pages",
-        language: "CSS",
-        stars: 0,
-        issues: 0,
-        url: "https://github.com/cool-element-com/cool-element-com.github.io",
-        icon: "web"
     }
 ];
 
